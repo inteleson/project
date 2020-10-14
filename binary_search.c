@@ -1,5 +1,5 @@
 /*
- C Program to Perform Binary Search using Recursion
+ C Program to Perform Binary Search using Recursion method
 
  */ 
 
